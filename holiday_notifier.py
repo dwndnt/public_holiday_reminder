@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from winotify import Notification, audio
 import time
 
-API_KEY = "fYSPlOBKKXIDJHxUBGWYUS1fGceUt4oWjZX4YJEY"
+API_KEY = "xxxxxxxxx"
 
 countries = {
     "ID": "Indonesia",
