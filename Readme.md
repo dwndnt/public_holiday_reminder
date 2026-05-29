@@ -48,7 +48,7 @@ pip install requests winotify
 
 ## 🔑 API Key Setup
 
-This project uses the API Ninjas Holidays API.
+This project uses the Ninjas Holidays API.
 
 Get your free API key from:
 
@@ -127,14 +127,6 @@ C:\path\holiday_notifier.py
 * Deployment freeze alerts
 * Export to Excel / CSV
 * Executable (.exe) version
-
----
-
-## 📄 License
-
-MIT License
-
----
 
 ## 🤝 Contributing
 
